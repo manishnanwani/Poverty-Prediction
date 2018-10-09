@@ -4,5 +4,7 @@ To predict whether or not a given household for a given country is poor or not. 
 
 The data was provided by The World Bank Development Data Group.
 
-Rank: 279 (out of 2500+ contestants)
+Rank: 279 (out of 2500+ contestants)                              
+
+
 Metrics: Mean Log Loss 0.21561
